@@ -1,0 +1,13 @@
+	TABLEAU WEEK-8  BY  ALKA MAM
+
+29/1/2024 and Monday
+
+
+project-1
+sheet-1 
+add in take same ds as different table due to the no common column their the dataset
+employeed
+median
+professionl
+stem jobs
+women graduated
